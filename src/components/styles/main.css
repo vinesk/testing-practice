@@ -1,0 +1,11 @@
+main {
+  grid-area: main;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+main section {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+}
